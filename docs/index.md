@@ -19,7 +19,19 @@ Free online events are organized regularly with the nf-core community, see the [
 
 We have several workshops available on this website - find the one that's right for you!
 
-[![Open in GitPod](https://img.shields.io/badge/Gitpod-%20Open%20in%20Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/nextflow-io/training)
+[![Open in Gitpod](https://img.shields.io/badge/Gitpod-%20Open%20in%20Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/nextflow-io/training)
+
+## Training Environment Setup
+
+!!! exercise "Environment Setup"
+
+    !!! quote inline end ""
+
+        :material-lightbulb: Essential for setting up your Gitpod for the first time.
+
+    An essential tutorial for setting up your Gitpod environment for the first time.
+
+    [Launch the environment setup training :material-arrow-right:](envsetup/index.md){ .md-button .md-button--primary }
 
 ## Nextflow Training
 
@@ -63,7 +75,7 @@ We have several workshops available on this website - find the one that's right 
 
     A "learn by doing" tutorial focusing on the configuration of nf-core pipelines.
 
-    [Launch the nf-core configuration training :material-arrow-right:](nf_customize/1_introduction.md){ .md-button }
+    [Launch the nf-core configuration training :material-arrow-right:](nf_customize/index.md){ .md-button }
 
 !!! exercise "Develop a pipeline with the nf-core template"
 
@@ -73,7 +85,7 @@ We have several workshops available on this website - find the one that's right 
 
     A "learn by doing" pipeline development tutorial focusing on developing a pipeline with the nf-core template.
 
-    [Launch the nf-core template training :material-arrow-right:](nf_develop/1_introduction.md){ .md-button }
+    [Launch the nf-core template training :material-arrow-right:](nf_develop/index.md){ .md-button }
 
 !!! exercise "RNA-seq variant calling"
 
@@ -93,7 +105,7 @@ We have several workshops available on this website - find the one that's right 
 
     A "learn by doing" troubleshooting tutorial for pipeline developers and users.
 
-    [Launch the troubleshooting training :material-arrow-right:](troubleshoot/introduction.md){ .md-button }
+    [Launch the troubleshooting training :material-arrow-right:](troubleshoot/index.md){ .md-button }
 
 ## Resources
 

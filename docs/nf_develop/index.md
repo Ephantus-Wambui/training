@@ -8,15 +8,28 @@ Leveraging the nf-core template enables accelerated maintenance and development 
 
 Let's get started!
 
+[![Open in Gitpod](https://img.shields.io/badge/Gitpod-%20Open%20in%20Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/nextflow-io/training)
+
 ## Learning objectives
 
-In this workshop, you will utilize the nf-core tooling to build a small pipeline.
+In In Part 1 of this workshop, you will utilize the nf-core tooling to build a small pipeline using the nf-core template.
 
 By the end of this workshop you will be able to:
 
 -   Discuss the benefits of using the nf-core pipeline template
 -   Identify the features of nf-core pipeline template that enable best practices
--   Utilize nf-core tooling to accelerate your pipeline development
+-   Add nf-core modules to a pipeline using the nf-core tooling
+-   Add parameters to a pipeline and update the schema using the nf-core tooling
+
+In Part 2 of this workshop, you will use the nf-core tooling to continue development of your pipeline and customize parts of the nf-core template.
+
+By the end of this workshop you will be able to:
+
+-   Add local modules
+-   Patch nf-core modules
+-   Customize linting tests
+-   Sync TEMPLATE
+-   Bump versions
 
 ## Audience & prerequisites
 
